@@ -1,0 +1,63 @@
+body{
+    font-family: 'Special Elite', cursive;
+    background:black;
+    }
+    .header_div{
+        background: white;
+        color: rgb(255, 51, 0);
+        
+    }
+    .header_div img{
+        width: 100px;
+    }
+   
+    
+    
+    #shoes{
+        border-radius: 25px;
+        box-shadow: 15px 18px 18px white;
+        width: 400px;
+        height: 400px;
+background-color: rgb(246, 197, 248);
+border-color: black;
+margin-right: 100%;
+margin-left: 5%;
+margin-top:80px;
+
+    }
+
+    #bottle{
+        border-radius: 25px;
+        box-shadow: 15px 18px 18px white;
+        width: 400px;
+        height: 500px;
+background-color: rgb(183, 168, 250);
+border-color: black;
+margin-right: 100%;
+margin-left: 5%;
+margin-bottom: 10px;
+
+    }
+
+    #pencil{
+        border-radius: 25px;
+        box-shadow: 15px 18px 18px white;
+        width: 400px;
+        height:400px;
+background-color: rgb(253, 196, 236);
+border-color: black;
+margin-right: 100%;
+margin-left: 5%;
+margin-top: 40px;
+margin-bottom: 100px;
+
+    }
+#footer{
+    position: fixed;
+    color: #6c757d;
+    bottom: 0;
+    width: 100%;
+    background-color: #f5f5f5;
+    line-height: 3;
+    text-align: center;
+}
