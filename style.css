@@ -52,6 +52,33 @@ margin-top: 40px;
 margin-bottom: 100px;
 
     }
+    #mic{
+        border-radius: 25px;
+        box-shadow: 15px 18px 18px white;
+        width: 400px;
+        height:400px;
+background-color: rgb(253, 196, 236);
+border-color: black;
+margin-right: 100%;
+margin-left: 5%;
+margin-top: 20px;
+margin-bottom: 100px;
+
+    }
+
+    #phone{
+        border-radius: 25px;
+        box-shadow: 15px 18px 18px white;
+        width: 400px;
+        height:400px;
+background-color: rgb(253, 196, 236);
+border-color: black;
+margin-right: 100%;
+margin-left: 5%;
+margin-top: 20px;
+margin-bottom: 100px;
+
+    }
 #footer{
     position: fixed;
     color: #6c757d;
